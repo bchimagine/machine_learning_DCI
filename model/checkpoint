@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/nerossd2/ML-DCI/MLP-model/model_v1_realdata_M15_N15_ang30_err_15_6.ckpt"
+all_model_checkpoint_paths: "/media/nerossd2/ML-DCI/MLP-model/model_v1_realdata_M15_N15_ang30_err_15_6.ckpt"
